@@ -2,7 +2,7 @@
 
 **each branch represent each version of CE**   
 
-This repo is holds all versions of CE docs and includes scripts to publish.  All docs are processed using mkdocs. This Repo is organized with branches for each version of the documentation.
+This repo holds all versions of CE docs and includes scripts to publish.  All docs are processed using mkdocs. This Repo is organized with branches for each version of the documentation.
 
 ## Making changes
 Fork, clone, and make a pull request
